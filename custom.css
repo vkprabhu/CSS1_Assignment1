@@ -1,0 +1,12 @@
+table#first {
+  width:50%; margin-top:20px;"
+}
+table#second {
+  width:30%; margin-top:20px;"
+}
+table#third {
+  width:40%; margin-top:20px;"
+}
+table#third #name, #value  {
+  text-align: left;
+}
